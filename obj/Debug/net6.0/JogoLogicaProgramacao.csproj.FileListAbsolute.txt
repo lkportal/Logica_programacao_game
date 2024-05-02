@@ -1,0 +1,14 @@
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\bin\Debug\net6.0\JogoLogicaProgramacao.exe
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\bin\Debug\net6.0\JogoLogicaProgramacao.deps.json
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\bin\Debug\net6.0\JogoLogicaProgramacao.runtimeconfig.json
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\bin\Debug\net6.0\JogoLogicaProgramacao.dll
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\bin\Debug\net6.0\JogoLogicaProgramacao.pdb
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.AssemblyInfoInputs.cache
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.AssemblyInfo.cs
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.dll
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\refint\JogoLogicaProgramacao.dll
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.pdb
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\JogoLogicaProgramacao.genruntimeconfig.cache
+D:\Documentos\Projetos Geral\jogo_charp_teste\JogoLogicaProgramacao\JogoLogicaProgramacao\obj\Debug\net6.0\ref\JogoLogicaProgramacao.dll
