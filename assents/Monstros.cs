@@ -37,7 +37,7 @@ namespace JogoLogicaProgramacao.assents {
         public override double AtaqueCriticoFisico() {
             double chance = randon.NextDouble();
             if (taxa_critica > chance) {
-                Textes.TXTCritico("Monstro");
+                Textos.TXTCritico("Monstro");
                 return ataque += dano_critico;
             }
             else {

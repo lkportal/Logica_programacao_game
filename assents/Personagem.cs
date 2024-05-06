@@ -45,14 +45,14 @@ namespace JogoLogicaProgramacao.assents {
         Pocao PMana = new Pocao() {
             Restaura = 50,
             Quantidade = 0,
-            TAX_Pocoe = 0.20,
+            TAX_Pocoe = 0.1,
         };
 
 
         Pocao Life = new Pocao() {
             Restaura = 20,
             Quantidade = 1,
-            TAX_Pocoe = 0.3
+            TAX_Pocoe = 0.15
         };
 
         public int GanhoPocaoLife() {
@@ -114,7 +114,7 @@ namespace JogoLogicaProgramacao.assents {
         public override double AtaqueCriticoFisico() {
             double chance = randon.NextDouble();
             if (taxa_critica > chance) {
-                Textes.TXTCritico(Nome);
+                Textos.TXTCritico(Nome);
                 return ataque += dano_critico;
             }
             else {
@@ -172,7 +172,7 @@ namespace JogoLogicaProgramacao.assents {
 
         public override double Magic() {
             if(lv < 10 || Mana < 20) {
-                Textes.TextInformacao("Nivel Baixo ou Mana Insuficiente");
+                Textos.TextInformacao("Nivel Baixo ou Mana Insuficiente");
                 return 0;
             }
             else {

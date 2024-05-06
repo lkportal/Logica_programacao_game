@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace JogoLogicaProgramacao.util {
-      static class Textes {
+      static class Textos {
 
 
 

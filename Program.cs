@@ -8,7 +8,7 @@ namespace JogoLogicaProgramacao {
 
           
             int fase = 1;
-            Textes.DigiteName();
+            Textos.DigiteName();
             string nome = Console.ReadLine();
 
 
